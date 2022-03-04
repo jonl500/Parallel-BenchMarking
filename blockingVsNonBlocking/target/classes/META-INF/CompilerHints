@@ -1,0 +1,12 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,com/blockingVsNonBlocking/jmh/NonBlockingBenchmark$ThreadState.prepare
+inline,com/blockingVsNonBlocking/jmh/NonBlockingBenchmark$ThreadState.tearDown
+inline,com/blockingVsNonBlocking/jmh/NonBlockingBenchmark.test16ThreadsNonBlocking
+inline,com/blockingVsNonBlocking/jmh/NonBlockingBenchmark.test2ThreadsNonBlocking
+inline,com/blockingVsNonBlocking/jmh/NonBlockingBenchmark.test32ThreadsNonBlocking
+inline,com/blockingVsNonBlocking/jmh/NonBlockingBenchmark.test4ThreadsNonBlocking
+inline,com/blockingVsNonBlocking/jmh/NonBlockingBenchmark.test8ThreadsNonBlocking

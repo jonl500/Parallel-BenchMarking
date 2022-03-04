@@ -1,0 +1,4 @@
+package com.blockingVsNonBlocking.jmh.jmh_generated;
+public class NonBlockingBenchmark_ThreadState_jmhType extends NonBlockingBenchmark_ThreadState_jmhType_B3 {
+}
+
